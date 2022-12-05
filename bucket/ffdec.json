@@ -1,10 +1,10 @@
 {
-    "version": "16.3.1",
+    "version": "17.0.4",
     "description": "Open Source Flash SWF decompiler and editor.",
     "homepage": "https://github.com/jindrapetrik/jpexs-decompiler",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/jindrapetrik/jpexs-decompiler/releases/download/version16.3.1/ffdec_16.3.1.zip",
-    "hash": "baa0111210dcdc2a01369422f3eda167bbfe71abd42c4bde3cc2cd11e5648563",
+    "url": "https://github.com/jindrapetrik/jpexs-decompiler/releases/download/version17.0.4/ffdec_17.0.4.zip",
+    "hash": "d471c49d6aede8367fd4ddfe5cab845da1598ce79f9bce07ba7bbf00855e7c76",
     "bin": "ffdec.jar",
     "shortcuts": [
         [
